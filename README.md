@@ -1,5 +1,3 @@
-# ubiquitous-octo-invention
-
 #myUSCIS Research Strategy
 
 ##Overview
@@ -99,16 +97,17 @@ _References_
 * http://www.uxmatters.com/mt/archives/2012/02/communicating-user-research-findings.php
 
 ###User Research
-The findings coming out of user research should follow the same manner as the Full Experience Test Reporting. When the team has collected all the data, look for the patterns that stand out around user goals, needs, pains, joys, and missed opportunities. These patterns will turn into the themes that should guide the next phase of design efforts. 
+The findings coming out of user research should follow the same manner as the Full Experience Test Reporting. When the team has collected all the data, look for the patterns that stand out around user goals, needs, pains, joys, and missed opportunities. These patterns will turn into the themes that should guide the next phase of design efforts.
 
 _References_
 * http://uxpamagazine.org/the-perfect-report/
 * https://www.interaction-design.org/literature/article/ux-research-communication-report-writing
 
 ##Proposed Research Schedule
-Below is the proposed schedule for USCIS research for the next 12 months.
+Below is the proposed schedule for USCIS research for the next 12 months.  
+
 | Month     | Activities | Date (Week of) |
-| --------- | ---------- | -------------- | 
+| --------- | ---------- | -------------- |
 | April     | Full Experience | April 25th |
 | May       | Tactical Testing | May 23rd |
 | June      | Tactical Testing, User Research | June 20th & June 27 |
